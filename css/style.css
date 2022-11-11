@@ -1,8 +1,33 @@
-.container{
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
 }
-.container > div{
-    width: 30%;
+
+div{
+    text-align: center;
+}
+.header{
+    background-color: yellow;
+    height: 5vh;
+}
+.nav{
+    background-color: green;
+    height: 5vh;
+}
+.section1{
+    background-color: red;
+    height: 40vh;
+}
+.section2{
+    background-color: purple;
+    height: 40vh;
+}
+.aside{
+    background-color: blue;
+    height: 80vh;
+}
+.footer{
+    background-color: orange;
+    height: 10vh;
 }
