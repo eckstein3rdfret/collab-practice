@@ -63,8 +63,6 @@ p{
     border-style: solid;
     border-radius: 20px;
     display: flex;
-    padding-top: 1%;
-    padding-left: 2%;
     justify-content: flex-start;
 }
 .battlemenu2{
@@ -82,10 +80,4 @@ p{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-}
-.left{
-    margin-left: 5%;
-}
-.right{
-    margin-right: 10%;
 }
