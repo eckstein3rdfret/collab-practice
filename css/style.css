@@ -16,10 +16,6 @@ a{
 p{
     margin: 0%;
 }
-.section1{
-    background-color: black;
-    height: 80vh;
-}
 .section2{
     background-image: url(/W4B_redo/img/LetsBattle.png);
     background-repeat: no-repeat;
@@ -32,21 +28,11 @@ p{
     height: 80vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.aside{
-    background-color: black;
-    height: 80vh;
-}
 .footer{
     background-color: black;
-    border-color: black;
-    border-style: solid;
-    border-width: 5px;
     height: 20vh;
     font-family: 'pokemontxt', Verdana, Geneva, Tahoma, sans-serif;
     text-shadow: 1px 3px 4px rgb(68, 68, 68);
-}
-.black{
-    background-color: black;
 }
 .battlemenu1{
     background-color: red;
@@ -80,4 +66,7 @@ p{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+.vert{
+    display: none;
 }
