@@ -16,12 +16,16 @@ a{
 p{
     margin: 0%;
 }
+strong{
+    color: black;
+}
 .section2{
     background-image: url(/W4B_redo/img/LetsBattle.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     padding-top: 3%;
